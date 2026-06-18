@@ -7,7 +7,6 @@ Projeto desenvolvido para praticar HTML e CSS.
 - CSS3
 
 ## Funcionalidades
-- Layout responsivo
 - Estrutura semelhante à página inicial do Google
 
 ## Autor
